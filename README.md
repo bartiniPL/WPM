@@ -1,1 +1,1 @@
-# WPM
+# Speedway manager
